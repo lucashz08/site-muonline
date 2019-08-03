@@ -1,0 +1,41 @@
+*{margin:0; padding:0; color:#717171; font-family:Arial, tahoma, sans-serif; font-size:13px;}
+body{background:#c1c1c1;background:#ccc;}
+p{color:#336a87; font-family:"Trebuchet MS"; font-size:14px;}
+h1{font-size:13px; color:#5d96b5; display:block; position:relative; float:left; margin:10px 0px 10px 0px;}
+h2{font-size:13px; color:#444;}
+hr{border-color:#dddfe1; margin-top:4px;}
+td{font:12px Tahoma, Geneva, sans-serif; color:#444;border-bottom:1px dotted #c1c1c1; padding-bottom:2px;}
+table{position:relative;width:100%; height:auto; border:1px solid #ccc; padding:5px;}
+label{font-family:Tahoma; color:#444; font-weight:bold; margin:3px 0px 3px 0px;}
+#blue{font-family:tahoma;color: #30adf0;}
+#text{border:none; border:1px solid;border-color:#5d96b5;margin:3px 0px 3px 0px; height:20px; padding-left:6px; font-family:Tahoma;}
+#button{padding:2px 4px 2px 4px; cursor:pointer;}
+blockquote{padding:0px 5px 0px 10px;border:2px solid #dddfe1; margin:10px 0 10px 0; }
+blockquote a{font-family:Verdana; font-size:12px; color:#268ec6; text-decoration:none;}
+blockquote a:hover{font-family:Verdana; font-size:12px; color:#268ec6; text-decoration:underline;}
+div#head{position:relative; width:552px; height:160px;  background:#fff;  background:url(../img/banner.jpg);border-radius:2px 2px 0px 0px;}
+div#main_painel{position:relative;float:left; width:552px; min-height:250px; height:auto; margin-top:-10px; border-radius:2px 2px 0px 0px; background:#fff; background: #fff; background-position:-15px -15px; }
+
+div#main_left{position:relative; float:left;width:200px;border-right:1px dotted #ccc; padding-bottom:40px; }
+div#main_left_aviso{position:relative; float:left;width:180px;padding:10px;}
+
+div#main_left h1 img{position:relative; float:left; margin-right:10px; margin-top:-1px;}
+div#main_left h1{position:relative; float:left; margin-left:10px; margin-top:10px; }
+
+div#main_login{ position:relative; float:left; margin-left:10px; width:200px;}
+div#main_login label{margin-top:2px; display:block;}
+
+div#main_menu{ position:relative; float:left; margin-left:10px; width:200px;}
+div#main_menu ul{list-style-type:none;}
+div#main_menu ul li a{width:190px; display:block; padding-top:3px; padding-bottom:3px; text-decoration:none; font-weight:normal;  font-family:tahoma;color: #268ec6; border-bottom:1px dotted #ccc;}
+div#main_menu ul li a:hover{text-decoration:line; color:#30adf0;}
+div#main_menu ul li a img{position:relative; float:left; margin-right:10px; margin-top:2px;width:11px; border:none;}
+
+div#main_right{position:relative; float:left;width:320px; padding:10px;min-height:230px; height:auto; }
+div#main_right h2 img{position:relative; float:left; margin-right:10px; margin-top:-1px; }
+div#main_right p{padding-bottom:10px;padding-top:10px; font-size:12px;}
+
+#select_style{margin-top:10px; background:#fafafa; width:180px; padding:2px 10px 2px 10px; height:26px; font-family:Verdana; display:block; color:#222;}
+
+#rodape{width:552px; height:40px; background:#fafafa; position:relative; float:left; border-top:1px solid #ccc; padding-top:12px;}
+#rodape p{font-size:10px !important;}
